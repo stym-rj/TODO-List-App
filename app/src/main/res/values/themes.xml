@@ -6,4 +6,6 @@
     </style>
 
     <style name="Theme.Project2TodoListApp" parent="Base.Theme.Project2TodoListApp" />
+
+
 </resources>
